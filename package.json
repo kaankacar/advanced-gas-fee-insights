@@ -1,0 +1,19 @@
+{
+  "name": "advanced-gas-fee-insights",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "advanced",
+    "gas",
+    "fee"
+  ],
+  "author": "Kaan Kaçar",
+  "license": "ISC",
+  "dependencies": {
+    "gas-fee-tracker-by-kaan": "^2.0.3"
+  }
+}
